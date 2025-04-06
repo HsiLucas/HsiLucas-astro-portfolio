@@ -77,8 +77,10 @@ const { Content } = await render(entry);
 	}
 
 	.tags {
-		display: flex;
+		display: grid;
+		grid-template-columns: 200px 200px 200px;
 		gap: 0.5rem;
+		
 	}
 
 	.description {
@@ -87,7 +89,8 @@ const { Content } = await render(entry);
 	}
 
 	.content {
-		max-width: 65ch;
+		max-width: 65rem;
+		font-size: var(--text-lg);
 		margin-inline: auto;
 	}
 

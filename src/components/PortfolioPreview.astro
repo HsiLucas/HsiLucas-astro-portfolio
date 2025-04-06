@@ -9,7 +9,7 @@ const { data, id } = Astro.props.project;
 ---
 
 <a class="card" href={`/work/${id}`}>
-	<span class="title">{data.title}</span>
+	<span class="subtitle">{data.subtitle}</span>
 	<img src={data.img} alt={data.img_alt || ''} loading="lazy" decoding="async" />
 </a>
 
@@ -34,7 +34,7 @@ const { data, id } = Astro.props.project;
 		box-shadow: var(--shadow-md);
 	}
 
-	.title {
+	.subtitle {
 		grid-area: 1 / 1 / 2 / 2;
 		z-index: 1;
 		margin: 0.5rem;
@@ -57,8 +57,9 @@ const { data, id } = Astro.props.project;
 			border-radius: 1.5rem;
 		}
 
-		.title {
+		.subtitle {
 			border-radius: 0.9375rem;
+			outline: solid;
 		}
 	}
 </style>
