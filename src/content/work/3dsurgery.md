@@ -1,6 +1,6 @@
 ---
-title: 3D Surgical Medical Device Opportunity Assessment
-subtitle: 3D Surgical Visualization
+title: Japanese Market Assessment for 3D Tools
+subtitle: Japanese Market Assessment
 publishDate: 2023-12
 img: /assets/3d-surgery.jpg
 img_alt: Doctors using a 3D Surgical Visualization Device

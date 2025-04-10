@@ -1,6 +1,6 @@
 ---
-title: Surgical Glaucoma Opportunity Assessment
-subtitle: Surgical Glaucoma Devices
+title: Cross-Regional Opportunity Assessment for Glaucoma Therapies
+subtitle: Cross-Regional Opportunity Assessment
 publishDate: 2023-10
 img: /assets/glaucoma.jpg
 img_alt: Woman receiving an eye exam
