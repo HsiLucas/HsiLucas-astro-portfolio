@@ -1,11 +1,11 @@
 ---
-title: Cross-Regional Opportunity Assessment for Glaucoma Therapies
-subtitle: Cross-Regional Opportunity Assessment
+title: Multinational Evaluation of Glaucoma Therapies
+subtitle: Multinational Glaucoma Evaluation
 publishDate: 2023-10
 img: /assets/glaucoma.jpg
 img_alt: Woman receiving an eye exam
 description: |
-  Research into the global landscape of glaucoma surgical and drug/device therapies for a Fortune 500 medtech client
+  Research into the global landscape of glaucoma surgical and drug/device therapies for a Fortune 100 medtech client
 tags:
   - Interviews
   - Medical Devices
@@ -16,7 +16,7 @@ tags:
 
 ### Project Overview
 
-A Fortune 500 med tech company is evaluating new eye care segments as potential areas for new growth. The client is a global leader in vision and are looking to leverage their vision expertise to build capabilities within the glaucoma market as a potential area of growth. The client lacks any high-potential glaucoma assets in the pipeline, but the glaucoma market is an interesting adjacency given its high growth, high unmet need, and alignment with the company’s capabilities and growth leads. In particular, the client is interested in the opportunity to potentially leverage their polymer capabilities within the glaucoma space, but also understand the opportunity in the glaucoma surgical space.
+A Fortune 100 med tech company is evaluating new eye care segments as potential areas for new growth. The client is a global leader in vision and are looking to leverage their vision expertise to build capabilities within the glaucoma market as a potential area of growth. The client lacks any high-potential glaucoma assets in the pipeline, but the glaucoma market is an interesting adjacency given its high growth, high unmet need, and alignment with the company’s capabilities and growth leads. In particular, the client is interested in the opportunity to potentially leverage their polymer capabilities within the glaucoma space, but also understand the opportunity in the glaucoma surgical space.
 
 This 3-month project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
 
