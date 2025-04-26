@@ -4,7 +4,7 @@
 
 If you click this☝️ button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
-![HsiLucas-astro-portfolio](public\assets\FrontPage.png)
+![HsiLucas-astro-portfolio](public/assets/FrontPage.png)
 
 ## Template Integrations
 
