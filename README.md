@@ -1,16 +1,14 @@
-# Astro Starter Kit: Portfolio
+# Lucas Hsing - Astro Template Portfolio & Tailwind CSS
 
-```sh
-npm create astro@latest -- --template portfolio
-```
+[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/HsiLucas/HsiLucas-astro-portfolio)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+If you click this☝️ button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+![HsiLucas-astro-portfolio](public\assets\FrontPage.png)
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+## Template Integrations
+
+- @astrojs/tailwind - https://docs.astro.build/en/guides/integrations-guide/tailwind/
 
 ## 🧞 Commands
 
@@ -27,4 +25,11 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check the [Astro documentation](https://docs.astro.build) or jump into their [Discord server](https://astro.build/chat).
+
+If you want to build based on the original template, you can view it here: https://astro.build/themes/details/portfolio/  or build it via the command below
+
+```sh
+npm create astro@latest -- --template portfolio
+```
+
